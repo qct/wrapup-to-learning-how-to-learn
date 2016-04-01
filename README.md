@@ -1,4 +1,3 @@
-## Wrapup to the course "Learning How to Learn: Powerful mental tools to help you master tough subjects"
 
 ### Week 1 What is Learning?
 * **Focused versus Diffuse Thinking**  
